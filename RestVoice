@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "Greet": "1",
+      "Act": "2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
